@@ -1,0 +1,99 @@
+# Greenfoot: A BlueJ-based game IDE for programming beginners. http://bluej.org
+
+# Editor preferences for a class etc, see http://lists.bluej.org/pipermail/bluej-discuss/2003-May/002351.html
+*.ctxt
+
+# Project file. Continously checking it in destroys the project ocasionally (while merging etc.) because it changes completely at every compile. Instead, make a copy of the file after the first runtime and name it e.g. `project.example.greenfoot`. See http://bugs.bluej.org/greenfoot/ticket/409
+
+#project.greenfoot
+
+#Doc Ordner
+**/doc
+*.class
+*.pkh
+*.ctxt
+#*.bluej
+.DS_Store
+/res
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+greenfoot/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.pdf
+*.gz
+*.log
+.DS_Store
