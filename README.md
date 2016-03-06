@@ -7,6 +7,7 @@ Moreover, there are many special things like movement patterns and collision det
 
 ## Prerequisites
 
++ JDK
 + JRE
 + Greenfoot
 
